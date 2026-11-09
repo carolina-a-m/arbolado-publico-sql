@@ -27,7 +27,7 @@ La base permite responder preguntas operativas como:
 
 ## Modelo de datos
 
-El diagrama entidad-relación está en el [informe técnico del proyecto](https://docs.google.com/document/d/1t99e265wDqVSlcxn1XCl3Lm0Twvq-j2UipD8omsPfys/edit?tab=t.0). Es el DER de diseño original, y la implementación final en SQL difiere de él en algunos puntos. **Ante cualquier diferencia, el esquema SQL es la versión vigente.**
+El diagrama entidad-relación está en el [anexo del proyecto](https://docs.google.com/document/d/1t99e265wDqVSlcxn1XCl3Lm0Twvq-j2UipD8omsPfys/edit?tab=t.0). Es el DER de diseño original, y la implementación final en SQL difiere de él en algunos puntos. **Ante cualquier diferencia, el esquema SQL es la versión vigente.**
 
 Diferencias entre el DER y el esquema implementado:
 
